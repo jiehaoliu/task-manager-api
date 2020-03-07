@@ -1,2 +1,7 @@
 node_modules
 config
+tests/fixtures/db.js
+tests/__mocks__/@sendgrid/mail.js
+tests/user.test.js
+tests/task.test.js
+tests/fixtures/profile-pic.jpg
